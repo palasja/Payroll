@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\PayrollLoad.deps.json
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\PayrollLoad.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\PayrollLoad.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\PayrollLoad.dll
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\PayrollLoad.pdb
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.dll
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.pdb
+C:\Users\Lenovo\source\repos\Payroll\Payroll\obj\Debug\netcoreapp3.1\PayrollLoad.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Payroll\Payroll\bin\Debug\netcoreapp3.1\appconfig.json
